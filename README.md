@@ -60,21 +60,5 @@ res -> raw -> clapsound.mp3
   - **Below 3**: Indicates that the user's palms are close to the device, triggering the "Near" message and playing the clapping sound.
   - **Above 3**: Indicates that the user's palms are away from the device, triggering the "Away" message and stopping the clapping sound.
 
-## Screenshots
-
-1. **Home Screen with Prompt**  
-   ![Image 1](image-1.png)
-
-2. **Proximity Sensor Detects Palms Near**  
-   ![Image 2](image-2.png)
-
-3. **Proximity Sensor Detects Palms Away**  
-   ![Image 3](image-3.png)
-
-4. **Close Button**  
-   ![Image 4](image-4.png)
-
-5. **App Closed**  
-   ![Image 5](image-5.png)
 
 
